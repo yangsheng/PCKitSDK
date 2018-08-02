@@ -1,0 +1,6 @@
+framework module PCKit {
+  umbrella header "PCKit.h"
+
+  export *
+  module * { export * }
+}
